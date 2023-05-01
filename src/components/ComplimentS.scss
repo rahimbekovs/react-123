@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.todo__title {
+    color: red;
+    text-align: center;
+    margin: 30px;
+}
+.name__label{
+    color: blue;
+    font-size: 20px;
+    margin: 10px;
+}
+.todo__inp {
+    border-radius: 20px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+.todo__btn {
+    padding: 10px 20px;
+    border: transparent;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+.todo__form {
+    text-align: center;
+}

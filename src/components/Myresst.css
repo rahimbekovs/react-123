@@ -1,0 +1,10 @@
+.main-div {
+    display: flex;
+justify-content: center;
+}
+.itemdiv {
+    text-align: center;
+    border: 1px solid gray;
+    margin-bottom: 20px;
+    padding: 10px;
+}
